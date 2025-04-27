@@ -1,0 +1,16 @@
+# Ignore les fichiers binaires de compilation
+/bin/
+/obj/
+
+# Fichiers de la solution Visual Studio
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Fichiers de configuration locaux de Visual Studio
+.vs/
+
+
+# Fichiers de configuration de Visual Studio Code
+.vscode/
